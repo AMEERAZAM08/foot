@@ -3,15 +3,32 @@
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
 <p style="background-color:Tomato;">Lorem ipsum...</p>
 <html>
-<body>
-  <h1 style="background-color:DodgerBlue;">Hello World</h1>
-<p style="background-color:Tomato;">Lorem ipsum...</p>
+<!DOCTYPE html> 
+<html> 
+<body> 
 
-<h1 style="background-color:Tomato;">Tomato</h1>
+<button onclick="myFunction()" type="button">Add a new text track</button><br>
+ 
+<video id="video1" width="320" height="176" controls="controls">
+  <source src="mov_bbb.mp4" type="video/mp4">
+  <source src="mov_bbb.ogg" type="video/ogg">
+  Your browser does not support HTML5 video.
+</video>
 
-<h1 style="background-color:LightGray;">LightGray</h1>
-<!DOCTYPE html>
-<html>
+<script>
+var vid = document.getElementById("video1");
+
+function myFunction() { 
+  var text1 = vid.addTextTrack("caption");
+  text1.addCue(new TextTrackCue("Test text", 01.000, 04.000, "", "", "", true));
+} 
+</script> 
+
+<p>Video courtesy of <a href="https://www.bigbuckbunny.org/" target="_blank">Big Buck Bunny</a>.</p>
+
+</body> 
+</html>
+
 <body>
 
 <h2>HTML Image</h2>
