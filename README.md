@@ -1,7 +1,11 @@
 
 <!DOCTYPE html>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
 <html>
 <body>
+  <h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
 
 <h1 style="background-color:Tomato;">Tomato</h1>
 <h1 style="background-color:Orange;">Orange</h1>
@@ -11,8 +15,7 @@
 <h1 style="background-color:SlateBlue;">SlateBlue</h1>
 <h1 style="background-color:Violet;">Violet</h1>
 <h1 style="background-color:LightGray;">LightGray</h1>
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
-<p style="background-color:Tomato;">Lorem ipsum...</p>
+
 
 
 </body>
