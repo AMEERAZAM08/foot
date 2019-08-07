@@ -7,18 +7,18 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="profile" href="https://ameerazam08.github.io" />
-<link rel="pingback" href="https://ameerazam08.github.io" />
+<link rel="profile" href="https://ameerazam08.github.io/" />
+<link rel="pingback" href="https://ameerazam08.github.io/" />
 <title>Blog - Programming Liftoff</title>
 
 <!-- This site is optimized with the Yoast SEO plugin v11.4 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="https://ameerazam08.github.io" />
-<link rel="next" href="https://ameerazam08.github.io"  />
+<link rel="canonical" href="https://ameerazam08.github.io/" />
+<link rel="next" href="https://ameerazam08.github.io/"  />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Blog - Programming Liftoff" />
 <meta property="og:description" content="Learn how to send a text message from Python! This video teaches you how to send a text message using Python3 and Twilio. Everything in this video can be done using ..." />
-<meta property="og:url" content="https://programmingliftoff.com/blog/" />
+<meta property="og:url" content="https://ameerazam08.github.io/" />
 <meta property="og:site_name" content="Programming Liftoff" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:description" content="Learn how to send a text message from Python! This video teaches you how to send a text message using Python3 and Twilio. Everything in this video can be done using ..." />
@@ -30,7 +30,7 @@
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Programming Liftoff &raquo; Feed" href="https://programmingliftoff.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Programming Liftoff &raquo; Comments Feed" href="https://programmingliftoff.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Programming Liftoff &raquo; Comments Feed" href="https://ameerazam08.github.io/" />
 <!-- This site uses the Google Analytics by MonsterInsights plugin v7.7.1 - Using Analytics tracking - https://www.monsterinsights.com/ -->
 <script type="text/javascript" data-cfasync="false">
 	var mi_version         = '7.7.1';
