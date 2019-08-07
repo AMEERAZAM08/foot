@@ -7,13 +7,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="profile" href="https://gmpg.org/xfn/11">
-<link rel="pingback" href="https://programmingliftoff.com/xmlrpc.php">
+<link rel="profile" href="https://ameerazam08.github.io" />
+<link rel="pingback" href="https://ameerazam08.github.io" />
 <title>Blog - Programming Liftoff</title>
 
 <!-- This site is optimized with the Yoast SEO plugin v11.4 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="https://programmingliftoff.com/blog/" />
-<link rel="next" href="https://programmingliftoff.com/blog/page/2/" />
+<link rel="canonical" href="https://ameerazam08.github.io" />
+<link rel="next" href="https://ameerazam08.github.io"  />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Blog - Programming Liftoff" />
